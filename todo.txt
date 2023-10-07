@@ -1,0 +1,8 @@
+Testar métodos de classificação para dataset COM e SEM alterações 
+após análise;
+
+Outliers e fit dist.
+
+
+Verificação dos modelos: 
+Gráfico ROC
