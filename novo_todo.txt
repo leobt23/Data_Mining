@@ -1,7 +1,8 @@
-Eliminar os duplicados;
-Value mapping (1,2,3,4...);
-Taxonomia das profissões;
+FEITO - Eliminar os duplicados; 
+FEITO - Value mapping (1,2,3,4...);
+Drop columns;
 Designing Features (to_coupon, coupon_freq, occupation_class);
+Taxonomia das profissões;
 Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
 Retirar vars correlacionadas e testar modelos;
 Análise de variância;
