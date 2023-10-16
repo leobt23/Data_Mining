@@ -24,3 +24,4 @@ Equilibrar os outputs dos dados;
 Análise da entropia;
 Avaliar se a var dos carros tem alguma relevância;
 Reanalizar grafos correlação (ver ficheiros Sousa ou Leo);
+Clustering com Feature Eng.
