@@ -1,0 +1,28 @@
+FEITO - Eliminar os duplicados; 
+FEITO - Value mapping (1,2,3,4...);
+FEITO - Drop columns;
+Designing Features (to_coupon (FEITO), coupon_freq, occupation_class);
+Taxonomia das profissões;
+Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
+Retirar vars correlacionadas e testar modelos;
+Análise de variância;
+Usar 2 métodos de imputação (ver ficheiros Sousa ou Leo), há 1 feito;
+OneClassSVM e IsolationForest para comparar com outros método que tiram outputs (ver ficheiros Sousa ou Leo);
+Bootstrap, Holdout, Kcross - já feitos;
+Univariate Analysis;
+Bivariate Analysis;
+Data Encoding (Ver no medium);
+Acceptance probability (take away, rest < 20, etc https://www.kaggle.com/code/hendr666/coupon-acceptance-analysis-prediction);
+
+
+Métodos de classificação;
+Catboost, KNN (MCA, Gowers distance), LogisticRegression, RandomForest, NaiveBayes, XGBClassifier (ver ficheiros Sousa ou Leo);
+Gráfico ROC, F1;
+
+
+Caso haja tempo:
+Equilibrar os outputs dos dados;
+Análise da entropia;
+Avaliar se a var dos carros tem alguma relevância;
+Reanalizar grafos correlação (ver ficheiros Sousa ou Leo);
+Clustering com Feature Eng.
