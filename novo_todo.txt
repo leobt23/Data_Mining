@@ -1,7 +1,8 @@
 FEITO - Eliminar os duplicados; 
 FEITO - Value mapping (1,2,3,4...);
 FEITO - Drop columns;
-Designing Features (to_coupon (FEITO), coupon_freq, occupation_class);
+FEITO - Designing Features (to_coupon (FEITO), coupon_freq (FEITO), occupation_class (FEITO));
+FEITO - coupon_importance (menos relatório)
 FEITO - Taxonomia das profissões;
 Feito - Taxonomia de Age
 Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
