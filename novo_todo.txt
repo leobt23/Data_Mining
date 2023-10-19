@@ -27,3 +27,4 @@ Análise da entropia;
 Avaliar se a var dos carros tem alguma relevância;
 Reanalizar grafos correlação (ver ficheiros Sousa ou Leo);
 Clustering com Feature Eng.
+Taxonomizar todas as variáveis por Coupon Acceptance (i.e. por percentagens de Y), e testar resultados vs o que fizemnos
