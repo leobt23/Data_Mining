@@ -4,18 +4,17 @@ FEITO - Drop columns;
 FEITO - Designing Features (to_coupon (FEITO), coupon_freq (FEITO), occupation_class (FEITO));
 FEITO - coupon_importance (menos relatório)
 FEITO - Taxonomia das profissões;
-Feito - Taxonomia de Age
-Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
-Retirar vars correlacionadas e testar modelos;
-Análise de variância;
-Usar 2 métodos de imputação (ver ficheiros Sousa ou Leo), há 1 feito;
-OneClassSVM e IsolationForest para comparar com outros método que tiram outputs (ver ficheiros Sousa ou Leo);
-Bootstrap, Holdout, Kcross - já feitos;
-(FEITO ?) - Univariate Analysis;(Frequency distribution for a given category per class/The same but for probability)
-(FEITO ?) - Bivariate Analysis;(Bivariate Chi-Squared,Cramer-V between features and Y )
-Data Encoding (Ver no medium)(One-hot encoding + Ordinal encoding, Frequency encoding);
-Acceptance probability (take away, rest < 20, etc https://www.kaggle.com/code/hendr666/coupon-acceptance-analysis-prediction);
+FEITO - Taxonomia de Age
+FEITO - Análise de correlação entre nominais e ordinais;
+FEITO - Bootstrap, Holdout, Kcross;
+FEITO - Univariate Analysis;(Frequency distribution for a given category per class/The same but for probability)
+FEITO - Bivariate Analysis;(Bivariate Chi-Squared,Cramer-V between features and Y )
+FEITO - Acceptance probability (take away, rest < 20, etc https://www.kaggle.com/code/hendr666/coupon-acceptance-analysis-prediction);
+FEITO - Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
 
+- Usar 2 métodos de imputação (ver ficheiros Sousa ou Leo), há 1 feito;
+- OneClassSVM e IsolationForest para comparar com outros método que tiram outputs (ver ficheiros Sousa ou Leo);
+- Data Encoding (Ver no medium)(One-hot encoding + Ordinal encoding, Frequency encoding);
 
 Métodos de classificação;
 Catboost, KNN (MCA, Gowers distance), LogisticRegression, RandomForest, NaiveBayes, XGBClassifier (ver ficheiros Sousa ou Leo);
@@ -27,6 +26,5 @@ Criar rule sets como no paper utilizando o algoritmo a priori
 Equilibrar os outputs dos dados;
 Análise da entropia;
 Avaliar se a var dos carros tem alguma relevância;
-Reanalizar grafos correlação (ver ficheiros Sousa ou Leo);
 Clustering com Feature Eng.
-Taxonomizar todas as variáveis por Coupon Acceptance (i.e. por percentagens de Y), e testar resultados vs o que fizemnos
+
