@@ -14,9 +14,9 @@ FEITO - Comentar frequência das variáveis (ver ficheiros Sousa ou Leo);
 FEITO - Usar 2 métodos de imputação (ver ficheiros Sousa ou Leo), há 1 feito;
 FEITO - Data Encoding (Ver no medium)(One-hot encoding + Ordinal encoding, Frequency encoding);
 
-Métodos de classificação;
-Catboost, KNN (MCA, Gowers distance), LogisticRegression, RandomForest, NaiveBayes, XGBClassifier (ver ficheiros Sousa ou Leo);
-Gráfico ROC, F1;
+FEITO - Métodos de classificação;
+FEITO - Catboost, KNN (MCA, Gowers distance), LogisticRegression, RandomForest, NaiveBayes, XGBClassifier (ver ficheiros Sousa ou Leo);
+FEITO - Gráfico ROC, F1;
 
 
 Caso haja tempo:
